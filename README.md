@@ -4,8 +4,8 @@
 ## ⚡ Things I code with
 
 <p>
-  <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width=30px height=40px/>
-  <img alt="C++" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width=30px height=30px/>
+  <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width=30px height=35px/>
+  <img alt="C++" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg" width=30px height=30px/>
   <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=40px height=40px />
   <img alt="css" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width=40px height=40px />
   
