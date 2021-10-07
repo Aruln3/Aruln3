@@ -4,7 +4,7 @@
 ## ⚡ Things I code with
 
 <p>
-  <img alt="C" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png" width=30px height=35px/>
+  <img alt="C" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png" width=30px height=35px/>&ensp;
   <img alt="C++" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"  width=30px height=35px/>
   <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=40px height=40px />
   <img alt="css" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width=40px height=40px />
