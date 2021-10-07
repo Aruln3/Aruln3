@@ -5,7 +5,7 @@
 
 <p>
   <img  src="https://img.shields.io/badge/-C-13aa52?style=flat-square&logo=C&logoColor=white" />
-  <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=10px height=10px />
+  <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=50px height=50px />
   <img alt="css" src="https://www.freepik.com/free-icon/css-3_14840946.htm#page=1&query=css&position=19&from_view=author" />
   
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> 
