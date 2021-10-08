@@ -17,7 +17,7 @@
   
  ### <img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="30" height="30"/> Stats 
     
-<img align="right" margin-right="30px" alt="GIF" src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="220px" height="250px"/>
+<img align="right" margin-right="50px" alt="GIF" src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="220px" height="250px"/>
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
