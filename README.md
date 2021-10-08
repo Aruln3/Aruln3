@@ -5,7 +5,7 @@
 ## ✨ Things I code with
 
 <p style="text-align:center";>
-    <img alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width=30px height=30px style="
+    <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" width=30px height=30px style="
     padding-bottom: 5px;" />&ensp;
     <img alt="C++" src="https://openhistogram.io/wp-content/uploads/images/c-plus-plus-logo.svg" width="30px" height="29px" style="
     padding-bottom: 7px;">&ensp;
