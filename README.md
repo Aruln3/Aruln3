@@ -14,11 +14,11 @@
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=30px height=31px /> 
   </p>
 
-## 📊 Stats
+## 📊 Stats  ![image](https://user-images.githubusercontent.com/85127354/136531280-a709d356-791d-4610-a2ac-baff87674da2.png)
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
-<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" /><b>Streak</b>
+<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" /><p> StReak</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 
