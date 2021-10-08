@@ -14,7 +14,7 @@
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=30px height=31px /> 
   </p>
 
-## 📊 Stats  ![image](https://user-images.githubusercontent.com/85127354/136531280-a709d356-791d-4610-a2ac-baff87674da2.png)
+## 📊 Stats  <img src="https://c.tenor.com/gMLviYizGPUAAAAj/gears-graph.gif" width="30"/>
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
