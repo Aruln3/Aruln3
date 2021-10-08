@@ -16,7 +16,7 @@
 
 ## 📊 Stats
 
-(https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=dracula)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=dracula)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 
