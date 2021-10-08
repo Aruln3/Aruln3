@@ -17,6 +17,6 @@
 ## 📊 Stats
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
-<img align="right" alt="GIF" src="https://c.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif" width="580" height="240" />
+<img  alt="GIF" src="https://c.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif" width="90" height="50" />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
