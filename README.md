@@ -24,4 +24,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
-<img  alt="GIF" src="https://c.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="140" height="100" />
+<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="140" height="100" />
