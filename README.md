@@ -19,7 +19,7 @@
     
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
-<img  alt="GIF" src="https://explore.zoom.us/docs/image/postattendee/postattendee-demo.gif" width="50px" height="50px" />
+<img align="right" alt="GIF" src="https://explore.zoom.us/docs/image/postattendee/postattendee-demo.gif" width="150px" height="150px" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 
