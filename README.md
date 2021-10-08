@@ -4,12 +4,15 @@
 
 ## ✨ Things I code with
 
-<p style="text-align: center";>
-  <img alt="C" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-1.png" width=26px height=26px />&ensp;
-  <img alt="C++" src="https://brandslogos.com/wp-content/uploads/thumbs/c-logo-vector.svg"  width=26px height=26px/>
-  <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=40px height=40px />
-  <img alt="css" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width=40px height=40px /> 
-</p>
+<p style="text-align:center";>
+    <img alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width=30px height=30px style="
+    padding-bottom: 5px;" />&ensp;
+    <img alt="C++" src="https://openhistogram.io/wp-content/uploads/images/c-plus-plus-logo.svg" width="30px" height="29px" style="
+    padding-bottom: 7px;">&ensp;
+    <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=40px height=40px />
+    <img alt="css" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width=40px height=40px />
+    <img alt="css" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"width=40px height=40px /> 
+  </p>
 
 ## 📊 Stats
 
