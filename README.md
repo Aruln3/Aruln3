@@ -19,7 +19,7 @@
     
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
-<img align="right" alt="GIF" src="https://c.tenor.com/RWG3yLsLjAQAAAAC/evacomics-kelvin.gif" width="350px" height="400px" />
+<img align="right" alt="GIF" src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="350px" height="400px" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 
