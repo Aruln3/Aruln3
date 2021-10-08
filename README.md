@@ -22,4 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
-<img  alt="GIF" src="https://c.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif" width="90" height="50" />
+<img  alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="140" height="100" />
