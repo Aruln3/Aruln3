@@ -10,7 +10,7 @@
     <img alt="C++" src="https://openhistogram.io/wp-content/uploads/images/c-plus-plus-logo.svg" width="30px" height="29px" style="
     padding-bottom: 7px;">&ensp;
     <img alt="html5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_logo_icon_146477.png" width=31px height=32px />
-    <img alt="css" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_wordmark_logo_icon_146576.png" width=40px height=40px />&ensp;
+    <img alt="css" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_logo_icon_146575.png" width=31px height=32px />&ensp;
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=31px height=32px /> 
   </p>
 
