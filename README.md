@@ -16,7 +16,8 @@
 
   
  ### <img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="30" height="30"/> Stats 
-<div>
+<p style="border:2px;>
+    
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical") 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
@@ -24,4 +25,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
 <img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" />
-</div>
+    
+</p>
