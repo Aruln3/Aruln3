@@ -18,8 +18,10 @@
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
-<img  alt="GIF" src="https://c.tenor.com/NOYF3f82b_gAAAAM/programmer.gif" width="140" height="100" />
+<img  alt="GIF" src="https://c.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="140" height="100" />
