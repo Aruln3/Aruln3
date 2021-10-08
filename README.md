@@ -11,7 +11,7 @@
     padding-bottom: 7px;">&ensp;
     <img alt="html5" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" width=40px height=40px />
     <img alt="css" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5351-css3_102605.png" width=40px height=40px />
-    <img alt="css" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"width=33px height=33px /> 
+    <img alt="css" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"width=29px height=29px /> 
   </p>
 
 ## 📊 Stats
