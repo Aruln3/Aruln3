@@ -18,7 +18,7 @@
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
-<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" />
+<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" /><b>Streak</b>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
 
