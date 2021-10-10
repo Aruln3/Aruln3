@@ -1,7 +1,8 @@
-<h1 style="font-family:cursive"><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/>Hi</h1>
+<h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/> Hi</h1>
 <h3>Welcome to my page!<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h3>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 
+<img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="30"/></h1>
 ## ✨ Things I code with
 
 <p style="text-align:center";>
