@@ -2,7 +2,7 @@
 <h2>Welcome to my page! &ensp;<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h2>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 
-<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="70"/> &ensp; Things I code with</h2>
+<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/> &ensp; Things I code with</h2>
 <br>
 <p style="text-align:center";>
     <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" width=30px height=30px style="
