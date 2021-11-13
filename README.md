@@ -1,7 +1,7 @@
-<h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/> Hi</h1>
+<h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/>Hi<br>
 <h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
-
+</h1>
 <h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>
 <br>
 <p style="text-align:center";>
