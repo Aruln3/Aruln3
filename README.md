@@ -13,19 +13,18 @@
     <img alt="css" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_logo_icon_146575.png" width=31px height=32px />&ensp;
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=30px height=31px /> &ensp;
     <b>  and Learning...</b>
-  </p><br>
+ </p><br>
   
   
-  <h2>&ensp;Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
+<h2>Contact &ensp;<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
 <a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp;
 <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40" /></a>&ensp;
 <a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
 </p>
+<br>
 
-
-<h2>&ensp; Stats<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="60"/> </h2>
-
+<h2>&ensp;Stats<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="60"/> </h2>
     
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
 
@@ -34,10 +33,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
 <img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" />
-
-<h2><img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> &ensp; Contact</h2>
-<p align="left">
-<a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp;
-<a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40" /></a>&ensp;
-<a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
-</p>
