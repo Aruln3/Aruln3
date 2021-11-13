@@ -31,5 +31,5 @@
 <p align="left">
 <a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Whatsapp-512.png" alt="Ar3" height="40" width="40" /></a>
 
-<a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Instagram-512.png" alt="Ar3" height="40" width="40" /></a>
+<a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-black/128/yumminky-social-media-06-512.png" alt="Ar3" height="40" width="40" /></a>
 </p>
