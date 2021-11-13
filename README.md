@@ -29,8 +29,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ragavkumarv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-<a href="https://codepen.io/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragavkumarv" height="30" width="40" /></a>
-<a href="https://instagram.com/ragavkumarv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragavkumarv" height="30" width="40" /></a>
+<a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://tenor.com/view/waiting-gif-19254409" alt="Ar3" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ar3" height="30" width="40" /></a>
 </p>
