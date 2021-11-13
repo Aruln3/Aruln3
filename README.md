@@ -29,7 +29,7 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-128.png" alt="Ar3" height="30" width="40" /></a>
+<a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2106/24/social_media_social_media_logo_whatsapp-512.png" alt="Ar3" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Whatsapp_svg2-512.png" alt="Ar3" height="30" width="40" /></a>
 </p>
