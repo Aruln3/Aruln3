@@ -1,5 +1,5 @@
 <h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/>Hi<br>
-<h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>![visitors]("https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3")
+<h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 </h1>
 <h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>
@@ -17,14 +17,16 @@
 
 <h2>Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
     
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=radical)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=radical)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4)
 
 <a href="https://github.com/lavishjain36/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4" />
 </a>
 
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
