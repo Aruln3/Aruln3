@@ -29,6 +29,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4" />
 </a>
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aruln3)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
 <a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp;
