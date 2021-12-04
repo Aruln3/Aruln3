@@ -33,7 +33,7 @@
 
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
-<a href="https://wa.me/9344678992" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp;
+<!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
 <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40" /></a>&ensp;
 <a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
 </p>
