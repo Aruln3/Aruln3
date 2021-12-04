@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/dhanrajdc7/dhanrajdc7/main/back.png"/>
+
 <h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/>Hi<br>
 <h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
@@ -28,8 +30,6 @@
 <a href="https://github.com/Aruln3/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4" />
 </a>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aruln3)(https://github.com/Aruln3/github-readme-stats)]
 
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
