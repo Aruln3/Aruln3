@@ -1,4 +1,4 @@
-<img align="center" src="https://media1.tenor.com/images/d940415ad69acf71fb12fa3687dd3905/tenor.gif?itemid=24028342"/>
+<img align="center" src="https://media1.tenor.com/images/d940415ad69acf71fb12fa3687dd3905/tenor.gif?itemid=24028342" width="180"/>
 
 <h1><img src="https://c.tenor.com/xSI1Z0OAJQYAAAAi/smiling-face-with-halo-joypixels.gif" width="30"/>Hi<br>
 <h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>
