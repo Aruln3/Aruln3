@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media1.tenor.com/images/d940415ad69acf71fb12fa3687dd3905/tenor.gif?itemid=24028342" width="880"/>
+<!-- <img align="center" src="https://media1.tenor.com/images/d940415ad69acf71fb12fa3687dd3905/tenor.gif?itemid=24028342" width="880"/> -->
 <!-- https://media1.tenor.com/images/d940415ad69acf71fb12fa3687dd3905/tenor.gif?itemid=24028342
 https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
