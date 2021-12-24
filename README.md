@@ -41,6 +41,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40" /></a>&ensp;
 <a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
 <a href="https://www.linkedin.com/in/arul-d/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-44-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
+<!--     Social Media and Payment icon set -->
 </p>
 <br>
 <br>
