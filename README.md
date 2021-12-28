@@ -10,9 +10,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 <details align="left">
   <summary align="left"><h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2></summary>
-	<p align="center">
-		
-
+	<p align="center">	
 <br>
 <p style="text-align:center";>
     <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" width=30px height=30px style="
@@ -25,7 +23,6 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
       <img alt="JS" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
     <b>  and Learning...</b>
  </p><br>
-
 </p>
 <hr />
 
@@ -39,7 +36,6 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
 </a>
 </p>
-<br />
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
