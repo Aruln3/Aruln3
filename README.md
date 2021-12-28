@@ -56,9 +56,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 		Other than all these, I love chat to people! So maybe crash on my DM?
 <!--</p>
 <hr /> -->
-<details align="left">
-  <summary align="left">
-<h3>Contact</h3></summary>
+<h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h3></summary>
 	<p align="left">
 
 <!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
