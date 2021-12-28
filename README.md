@@ -6,7 +6,12 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <h2>Welcome to my page!<img src="https://c.tenor.com/iHvyWsJA_CMAAAAi/thanks-smile.gif" width="70"/></h2>
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 </h1>
-<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>
+
+<details align="left">
+  <summary align="left"><h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2></summary>
+	<p align="center">
+		
+
 <br>
 <p style="text-align:center";>
     <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" width=30px height=30px style="
@@ -20,11 +25,14 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
     <b>  and Learning...</b>
  </p><br>
 
+</p>
+<hr />
+<details />
 
-<details align="center">
+
+<details align="left">
   <summary align="left"><h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2></summary>
 	<p align="center">
-
 
 <p align="center">
 <a href="#go-nowhere">
@@ -45,10 +53,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true" />
 </a>
 <br />
-
+	
+<!-- 
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a>
 </p>
-<hr />
+<hr /> -->
 
 </p>
 <hr />
