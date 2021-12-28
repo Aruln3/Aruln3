@@ -25,7 +25,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=react-dark&area=true&hide_border=true" width="100%" alt="Arul's monthly coding activity"/><br>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
