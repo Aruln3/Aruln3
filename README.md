@@ -29,7 +29,6 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <a href="#go-nowhere">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
 </a>
-</p>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
@@ -56,12 +55,12 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 <details align="left">
-  <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="40" height="30"/></h2></summary>
+  <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"/></h2></summary>
 	<p align="center">
 		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. <br/> 
 		Other than all these, I love chat to people! So maybe crash on my DM?
-	</p>
-<hr />
+<!-- 	</p>
+<hr /> -->
 
 <details align="left">
   <summary align="left">
