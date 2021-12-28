@@ -21,7 +21,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
  </p><br>
 
 
-<details align="center">
+<details align="left">
   <summary align="center"><h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2></summary>
 	<p align="center">
 
