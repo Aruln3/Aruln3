@@ -7,6 +7,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 </h1>
 
+
 <details align="left">
   <summary align="left"><h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2></summary>
 	<p align="center">
@@ -63,6 +64,17 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 	
 	
 
+<details align="center">
+  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
+	<p align="center">
+		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R at tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. <br /><br />
+		
+		Other than all these, I love talking to people! So maybe crash on my DM?
+	</p>
+<hr />
+
+
+
 <details align="left">
   <summary align="left">
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2></summary>
@@ -76,44 +88,4 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </p>
 <br>
 <br>
-<img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Activity graph -->
-
-
-<!-- Trophies -->
-
-<details align="center">
-  <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
-	<p align="center">
-		Hi, my name is Krishna Moorthy, I’m from Chennai, born and brought up. I'm a senior year CS student at the University College of Engineering, Trichy. I specialize in the field of web development and designing. I love to design and code 👨🏼‍💻. I concentrate on writing clean, understandable and testable code. I love to work in & as a team. <br /><br />
-		Other than coding, I'm passionate about Astronomy 🌌 and bicycling 🚴‍♂️. I like to cook 🍳 in my leisure time. I spend most of my time building something I like, When I don’t, I watch movies 🎥, especially Hollywood and series like The <a href="https://www.netflix.com/in/title/70143830?source=35">Big Bang Theory</a> and <a href="https://www.hotstar.com/in/tv/silicon-valley/8210?utm_source=gwa">Silicon Valley</a>. I like listening to Pop and Rock music 🎶. My favorite singer is <a href="https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP">Troye Sivan</a>. I love cats 😼, although I don’t have one.  <br /><br />
-		I’m more of a casual person, I regard everybody as a fellow human, regardless of their socio-political and / or economic status. I strongly support equality; equality among genders, race, sexuality, religion, cast etc. I believe people should be valued equally regardless of their birth.  <br /><br />
-		Other than all these, I love talking to people! So maybe crash on my DM?
-	</p>
-<hr />
-<details />
+<!-- <img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" /> -->
