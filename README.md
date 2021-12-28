@@ -27,7 +27,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=#7FFF00&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true" alt="Arul's monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%" alt="Arul's monthly coding activity" />
 </a>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
