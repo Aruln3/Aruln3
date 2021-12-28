@@ -24,7 +24,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true&background=00000000)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&hide_border=true&background=00000000)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4)
 
@@ -68,16 +68,12 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
-</a>
-</p>
+
 
 <!-- Activity graph -->
 <p align="center">
 <a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=KrishnaMoorthy12&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Krish's monthly coding activity" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
 </a>
 </p>
 
