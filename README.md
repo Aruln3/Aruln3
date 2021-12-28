@@ -52,9 +52,9 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <details align="left">
   <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"/></h2></summary>
 	<p align="left">
-		<h5>Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode. I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team.</h5> <br/> 
+		<h5>Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode. I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team.</h5>
 		
-		Other than all these, I love chat to people! So maybe crash on my DM?
+Other than all these, I love chat to people! So maybe crash on my DM?
 <!--</p>
 <hr /> -->
 <h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h3></summary>
