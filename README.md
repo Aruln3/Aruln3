@@ -20,7 +20,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
     <b>  and Learning...</b>
  </p><br>
 
-<h2>Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
+
+<details align="center">
+  <summary align="center"><h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2></summary>
+	<p align="center">
+
 
 <p align="center">
 <a href="#go-nowhere">
@@ -46,6 +50,12 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </p>
 <hr />
 
+</p>
+<hr />
+<details />
+	
+	
+	
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
 <!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
