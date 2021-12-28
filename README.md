@@ -51,15 +51,15 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 	
 <details align="left">
   <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"/></h2></summary>
-	<p align="center">
+	<p align="left">
 		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. <br/> 
 		Other than all these, I love chat to people! So maybe crash on my DM?
-<!-- 	</p>
+<!--</p>
 <hr /> -->
 <details align="left">
   <summary align="left">
 <h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h3></summary>
-	<p align="center">
+	<p align="left">
 
 <!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
 <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40" /></a>&ensp;
