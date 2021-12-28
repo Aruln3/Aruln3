@@ -21,7 +21,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
       <img alt="JS" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
     <b>  and Learning...</b>
  </p><br>
-<hr/>
+<!-- <hr/> -->
 
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
 <p align="center">
@@ -33,6 +33,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
 
@@ -45,13 +46,9 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a>
 </p>
 <hr /> -->
-
 </p>
 <hr />
 	
-	
-
-
 <details align="left">
   <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"/></h2></summary>
 	<p align="center">
@@ -59,10 +56,9 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 		Other than all these, I love chat to people! So maybe crash on my DM?
 <!-- 	</p>
 <hr /> -->
-
 <details align="left">
   <summary align="left">
-<h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2></summary>
+<h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/></h3></summary>
 	<p align="center">
 
 <!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
@@ -71,6 +67,4 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <a href="https://www.linkedin.com/in/arul-d/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-44-512.png" alt="Ar3" height="36" width="36" /></a>&ensp;
 <!--     Social Media and Payment icon set -->
 </p>
-<br>
-<br>
 <!-- <img  alt="GIF" src="https://c.tenor.com/iYg4CO19cHEAAAAj/cat-meow.gif" width="50px" height="50px" /> -->
