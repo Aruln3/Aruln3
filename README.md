@@ -8,8 +8,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </h1>
 
 
-<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>
-	<p align="center">	
+<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>	
 <br>
 <p style="text-align:center";>
     <img alt="C" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/c_original_logo_icon_146611.png" width=30px height=30px style="
@@ -22,14 +21,10 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
       <img alt="JS" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
     <b>  and Learning...</b>
  </p><br>
-</p>
 <hr />
 
 
-<details align="left">
-  <summary align="left"><h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2></summary>
-	<p align="center">
-
+<h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
@@ -61,7 +56,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 <details align="left">
-  <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="40"/></h2></summary>
+  <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="40" height="30"/></h2></summary>
 	<p align="center">
 		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. <br/> 
 		Other than all these, I love chat to people! So maybe crash on my DM?
