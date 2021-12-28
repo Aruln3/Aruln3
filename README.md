@@ -24,7 +24,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&border-radius=30px)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true&background=00000000)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4)
 
@@ -67,32 +67,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 
-<p align="center"><img align="center" src="./blobs/banner.svg" alt="Krish" /></p>
 
-<!-- BETA [coming soon]
- <p align="center">
-	  <img align="center" src="https://titlecard.herokuapp.com/?card=plain&intro=Hi,%20I%20am&title=Krishna%20Moorthy&about=UI/%20UX%20Designer,%20Full%20Stack%20Developer&bg=rgba(0,0,0,0)&fg=rgb(112,0,255)" alt="banner" />
-</p>
- -->
-<p align="center">
-	<a href="mailto:akrishnamoorthy007@gmail.com" target="_blank" align="center">Send Email</a> |
-	<a href="https://devkrish.me" target="_blank" align="center">Portfolio</a> |
-	<a href="https://polywork.com/krish_the_dev" target="_blank" align="center">Polywork</a>
-</p>
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/krish_the_dev" align="center" target="blank">
-	<img src="https://img.shields.io/twitter/follow/krish_the_dev?logo=twitter&style=for-the-badge" alt="krish_the_dev" />
-</a>
-
-<a href="https://www.linkedin.com/in/akrishnamoorthy007/" align="center" target="blank">
-	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="akrishnamoorthy007" />
-</a>
-</p>
-<hr />
-
-<!-- Streak -->
 <p align="center">
 <a href="#go-nowhere">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnamoorthy12&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
