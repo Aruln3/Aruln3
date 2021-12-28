@@ -69,11 +69,10 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <summary align="left">
 <h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
-		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. Other than all these, I love talking to people! So maybe crash on my DM?
+		Hi, my name is Arul, I’m from Namakkal, born and brought up. I'm a CS student Studied at the K.S.R, tiruchengode.  I'm much Interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻. I love to work in & as a team. 
+		Other than all these, I love chat to people! So maybe crash on my DM?
 	</p>
 <hr />
-
-
 
 <details align="left">
   <summary align="left">
