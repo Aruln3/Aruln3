@@ -21,6 +21,13 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
  </p><br>
 
 <h2>Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
+
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
+</a>
+</p>
+<br />
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
@@ -71,12 +78,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 <!-- Activity graph -->
-<p align="center">
-<a href="#go-nowhere">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=github&bg_color=ffffff00&color=2800f0&point=a35eff&line=15f4ee&custom_title=Last%20month%20GitHub%20activity&hide_border=true&area=true" alt="Arul's monthly coding activity" />
-</a>
-</p>
-<br />
+
 
 <!-- Trophies -->
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a> </p>
