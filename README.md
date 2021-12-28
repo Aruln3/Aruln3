@@ -20,7 +20,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=30px height=31px /> &ensp;
       <img alt="JS" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
     <b>  and Learning...</b>
- </p>
+ </p><br>
 <hr/>
 
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
@@ -31,6 +31,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </p>
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
+
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
