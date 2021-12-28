@@ -8,8 +8,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </h1>
 
 
-<!-- <details align="left"> -->
-  <summary align="left"><h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2></summary>
+<h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>
 	<p align="center">	
 <br>
 <p style="text-align:center";>
