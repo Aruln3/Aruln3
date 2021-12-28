@@ -23,14 +23,14 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
  </p><br>
 <!-- <hr/> -->
 
+
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-    
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a></p>    
+<!-- <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="krishnamoorthy12" /></a></p>     -->
     
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
