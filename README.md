@@ -41,6 +41,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4" />
 </a>
 
+
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a>
+</p>
+<hr />
+
 <h2>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"/> </h2>
 <p align="left">
 <!-- <a href="https://wa.me/9344" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-09-512.png" alt="Ar3" height="35" width="35" /></a>&ensp; -->
@@ -81,8 +86,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 <!-- Trophies -->
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a> </p>
-<hr />
+
 <details align="center">
   <summary align="center"><h3 style="display: inline;">Who am I?<h3></summary>
 	<p align="center">
