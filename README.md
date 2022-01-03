@@ -38,7 +38,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=blue-green&langs_count=4&hide_border=true)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=aura&langs_count=4&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
