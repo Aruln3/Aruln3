@@ -51,19 +51,19 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3">
 </p>
 <br>
-<p align="left">
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p>
+<p align="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p align="left">
+<p align="left"  style="display: inline;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p align="right">
+<p  style="display: inline;">
   <img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit,Repositories&theme=onedark&no-bg=true&no-frame=true">
 </p>
 
