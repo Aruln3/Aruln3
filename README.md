@@ -51,7 +51,8 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <br />
 
 
-<p align="center">![GitHub Streak]
+<p align="center">
+	![GitHub Streak]
   <img width="460" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true">
 </p>
 
