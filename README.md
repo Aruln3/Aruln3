@@ -36,20 +36,18 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3 )
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3&style=centerme)
 
-<center>
 	
-![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true)
+![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true&style=centerme)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true&style=centerme)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
 
 <a href="https://github.com/Aruln3/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true"  />
 </a>
 <br />
-</center>
 	
 <!-- 
 <p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" /></a>
