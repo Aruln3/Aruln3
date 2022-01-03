@@ -59,11 +59,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p align="left"  style="display: inline;">
+<p align="left"  style="display: inline; float: left;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p  style="display: inline;">
+<p  style="display: inline;  float: left;">
   <img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit,Repositories&theme=onedark&no-bg=true&no-frame=true">
 </p>
 
