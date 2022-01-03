@@ -36,17 +36,17 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </a>
 </p>
 
-<div align=”center”>
+<p align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3&style=centerme)
 
-</div>
+</p>
 
-<div align=”center”>
+<p align="center">
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true)
 
-</div>
+</p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true&style=centerme)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
