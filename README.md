@@ -63,7 +63,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 
-<p  style="display: inline;  float: left;">
+<p  style="display: inline;  float: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit,Repositories&theme=onedark&no-bg=true&no-frame=true">
 </p>
 
