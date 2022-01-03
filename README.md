@@ -60,7 +60,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </p>
 
 <p align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true">
 </p>
 	
 <!-- 
