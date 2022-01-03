@@ -58,7 +58,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 </p>
 
 <p align="center">
-  <img width="550" height="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true">
+  <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true">
 </p>
 	
 <!-- 
