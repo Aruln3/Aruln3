@@ -45,10 +45,17 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
 
-<a align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true"  />
-</a>
-<br />
+<p align="center">
+  <img width="450" height="280" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true">
+</p>
+
+
+<p align="center">
+  <img width="450" height="280" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true">
+</p>
+
+
+
 
 <p align="center">
   <img width="450" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true">
