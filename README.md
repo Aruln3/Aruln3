@@ -44,7 +44,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <br>
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&hide_border=true) &ensp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true)&ensp; &ensp; &ensp; &ensp;   [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true)&ensp; &ensp; &ensp; &ensp;   [![trophy](https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- 
