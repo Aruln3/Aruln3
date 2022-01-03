@@ -32,7 +32,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=gotham&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
@@ -40,11 +40,11 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 ![Arul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
 
 <a href="https://github.com/Aruln3/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=omni&langs_count=4&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true" />
 </a>
 <br />
 	
