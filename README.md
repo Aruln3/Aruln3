@@ -35,7 +35,7 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
  <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=gotham&area=true&hide_border=true" width="100%">
 </a>
 </p>
-
+<!-- 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3)
 
 
@@ -43,19 +43,18 @@ https://media.tenor.com/videos/3daca313378850c196637c92a6c12895/mp4 -->
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4) --> -->
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3">
+</p>
 
 <p align="center">
   <img width="450" height="280" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=gotham&langs_count=4&hide_border=true">
 </p>
 
-
 <p align="center">
   <img width="450" height="280" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=gotham&langs_count=4&hide_border=true">
 </p>
-
-
-
 
 <p align="center">
   <img width="450" height="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&theme=gotham&langs_count=4&hide_border=true">
