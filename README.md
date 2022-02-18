@@ -15,6 +15,8 @@
     <img alt="html5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/html_original_logo_icon_146477.png" width=31px height=32px />&ensp;
     <img alt="css" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/css_original_logo_icon_146575.png" width=31px height=32px />&ensp;
     <img alt="JS" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/javascript_icon_130900.png" width=30px height=31px /> &ensp;
+ <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=30px height=31px /> &ensp;
+	
     <img alt="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width=33px height=33px /> &ensp;
       <img alt="sql" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
       <img alt="eclipse" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" width=31px height=31px /> &ensp;
