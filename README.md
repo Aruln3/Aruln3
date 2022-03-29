@@ -17,7 +17,7 @@
     <img alt="TS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width=30px height=31px/>&ensp;
     <img alt="React" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width=33px height=33px /> &ensp;
     <img alt="sql" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png"  width=27px height=31px /> &ensp;
-	 <img alt="mongodb" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png" width=27px height=31px /> &ensp;
+	 <img alt="mongodb" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width=27px height=31px /> &ensp;
     <img alt="eclipse" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" width=31px height=31px /> &ensp;
     <img alt="vscode" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width=31px height=31px /> &ensp;
     <b>  and Learning...</b>
