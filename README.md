@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="contribution" src="https://github.com/Aruln3/Aruln3/blob/main/github-contribution-grid-snake.svg" />
 </p>
-<img alt="contribution" src="https://skyline.github.com/Aruln3/2021" />
+<img alt="skyline" src="https://skyline.github.com/Aruln3/2021" />
 </p>
 <h2><img src="https://c.tenor.com/scJmHcoziLYAAAAi/kelvin-working-from-home.gif" width="80"/>&ensp;Things I code with</h2>	
 <br>
