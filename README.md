@@ -50,9 +50,13 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&langs_count=8&theme=omni&langs_count=4">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&locale=en&layout=compact">
 </p>
 <br>
+
+<!--
+https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&langs_count=8&theme=omni&langs_count=4
+	https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&locale=en&layout=compact --!>
 <!-- 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&hide_border=true)     ![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruln3&layout=compact&theme=omni&langs_count=4&hide_border=true)&ensp; &ensp; &ensp; &ensp;  -->
 
