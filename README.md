@@ -62,7 +62,7 @@ https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&langs_count
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Aruln3&title=Followers,Stars,Commit&theme=onedark&no-bg=true&no-frame=true) -->
 
-<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true" /></a>
+<p align="center"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest" /></a>
 </p>
 <hr />
 	
