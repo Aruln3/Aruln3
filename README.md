@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4">
 </p>
 <br>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true">
 </p>
 
