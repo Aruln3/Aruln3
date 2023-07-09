@@ -42,7 +42,7 @@
 
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank=3">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=percentile">
 <!-- </p>
 <br>
 <p align="center"> -->
