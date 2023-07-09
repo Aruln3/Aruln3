@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true">
 </p>
 
-<p align="right"> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest" /></a>
+<p> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest" /></a>
 </p>
 <br>
 
