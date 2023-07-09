@@ -50,7 +50,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=onedark&layout=compact&hide_progress=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true">
 </p>
 <br>
 
