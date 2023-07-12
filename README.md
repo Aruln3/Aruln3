@@ -32,7 +32,7 @@
 
 <br> 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3">
+  <img src="https://komarev.com/ghpvc/?username=Aruln3&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 <br>
 
