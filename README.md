@@ -28,11 +28,7 @@
 
 
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
-<p align="center">
 
- <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=gotham&area=true&hide_border=true" width="100%">
-</a>
-</p>
 
 <br> 
 <p align="center">
