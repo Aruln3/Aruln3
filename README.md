@@ -28,14 +28,11 @@
 
 
 <h2 style="display: inline;">Stats &ensp;<img src="https://c.tenor.com/T-pW4c5b4y0AAAAi/gofourward-webdesign.gif" width="40"/></h2>
-
-
 <br> 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aruln3&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 <br>
-
 <br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=36px">
@@ -43,9 +40,7 @@
 <br>
 <p align="center"> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4">
-</p>
-<br>
-<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true">
 <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest,Issues" /></a>
 </p>
