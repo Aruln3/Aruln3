@@ -35,6 +35,7 @@
 </p>
 
 <br> --!>
+ <img src="https://activity-graph.herokuapp.com/graph?username=Aruln3&theme=gotham&area=true&hide_border=true" width="100%">
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Aruln3.Aruln3">
 </p>
