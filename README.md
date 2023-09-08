@@ -30,7 +30,7 @@
 > <br>
 >
 > <p align="left">
->   <img src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=36px">
+>   <img src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=30px">
 > </p>
 >
 > <p align="center">
