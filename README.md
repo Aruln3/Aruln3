@@ -34,7 +34,7 @@
 > </p>
 >
 > <p align="center">
->   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4">
+>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=4&card_width=20px">
 >   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true">
 > </p>
 >
