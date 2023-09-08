@@ -38,7 +38,9 @@
 <!-- >   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&theme=omni&layout=compact&hide_progress=true"> -->
 > </p>
 >
-> <a href="#go-nowhere"><img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest,Issues"></a>
+> <a href="#go-nowhere" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,Followers,PullRequest,Issues">
+  </a>
 >
 > ---
 >
