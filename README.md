@@ -28,24 +28,24 @@
 > </p>
 >
 > <br>
->
->
-> <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul"/></p>
->
-> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true" alt="Arul"/></p>
+
+
+ <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul"/></p>
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true" alt="Arul"/></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6"/></p>
->
-> <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars&card_width=20px"/></p>
->
-> <details align="left">
->   <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"></h2></summary>
->   <p align="left">
->     <h5 width="80%"> Hi, my name is Arul, born and brought up in Mettur, Salem. I'm a CS student studying at K.S.R, Tiruchengode. I'm very interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻</h5>
->   </p>
->   <h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"></h3>
->   <p align="left">
->     <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40"></a>&ensp;
->     <a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36"></a>&ensp;
->     <a href="https://www.linkedin.com/in/arul-d/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-44-512.png" alt="Ar3" height="36" width="36"></a>&ensp;
->   </p>
-> </details>
+
+ <p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars&card_width=20px"/></p>
+
+ <details align="left">
+   <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"></h2></summary>
+   <p align="left">
+     <h5 width="80%"> Hi, my name is Arul, born and brought up in Mettur, Salem. I'm a CS student studying at K.S.R, Tiruchengode. I'm very interested in the field of web development and designing. I 💖 to design and code 👨🏼‍💻</h5>
+   </p>
+   <h3>Contact<img src="https://c.tenor.com/yIG048LQlNgAAAAj/smile-kelvin.gif" width="60"></h3>
+   <p align="left">
+     <a href="https://www.instagram.com/arul_n3/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-03-512.png" alt="Ar3" height="40" width="40"></a>&ensp;
+     <a href="https://t.me/Arul_n3" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-59-512.png" alt="Ar3" height="36" width="36"></a>&ensp;
+     <a href="https://www.linkedin.com/in/arul-d/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-and-payment/64/-44-512.png" alt="Ar3" height="36" width="36"></a>&ensp;
+   </p>
+ </details>
