@@ -27,7 +27,9 @@
    <img src="https://komarev.com/ghpvc/?username=Aruln3&label=Profile%20views&color=0e75b6&style=flat">
 </p>
 
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul D"/></p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=github_dark&layout=compact" alt="Arul D"/></p>
+
+<br>
 
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=Aruln3"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2" alt="Arul's GitHub Trophies" /></a> 
