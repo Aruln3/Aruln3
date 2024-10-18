@@ -30,11 +30,12 @@
 > <br>
 
 
- <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul"/></p>
+ <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul D"/></p>
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true" alt="Arul"/></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6"/></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3" alt="Arul D" /></p>
  <p align="center">&nbsp;<img src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest,Issues&row=2&column=3"/></p>
 
  <details align="left">
