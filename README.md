@@ -35,10 +35,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=20px"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=20px"></p>
 
-<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars&card_width=20px"/></p>
-
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars&card_width=20px"/></p>
 
  <details align="left">
    <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="30"></h2></summary>
