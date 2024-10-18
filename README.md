@@ -32,11 +32,11 @@
 
  <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul D"/></p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true" alt="Arul"/></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6"/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true&no-frame=true" alt="Arul"/></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6&no-frame=true"/></p>
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&layout=compact" alt="Arul D" /></p>
- <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2"/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&layout=compact&no-frame=true" alt="Arul D" /></p>
+ <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2&no-frame=true"/></p>
 "/></p>
 
  <details align="left">
