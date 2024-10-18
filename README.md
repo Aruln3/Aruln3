@@ -33,14 +33,14 @@
 
 <div align="center">
   
-| <a href="https://github-profile-trophy.vercel.app/?username=Aruln3"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2&no-frame=true" alt="Arul's GitHub Trophies" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6&no-frame=true" alt="Arul's GitHub Streak Stats" /></a> |
+| <a href="https://github-profile-trophy.vercel.app/?username=Aruln3"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2&no-frame=true" alt="Arul's GitHub Trophies" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=onedark&langs_count=6&no-frame=true" alt="Arul's GitHub Streak Stats" /></a> |
 | ------------- | ------------- |
 
 </div>
 
 <div align="center">
   
-| <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true&no-frame=true" alt="Arul's Top Languages" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&layout=compact&no-frame=true" alt="Arul's GitHub Stats" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=onedark&layout=compact&hide_progress=true&no-frame=true" alt="Arul's Top Languages" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=onedark&layout=compact&no-frame=true" alt="Arul's GitHub Stats" /></a> |
 | ------------- | ------------- |
 
 </div>
