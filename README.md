@@ -32,14 +32,19 @@
  <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aruln3&theme=omni&layout=compact" alt="Arul D"/></p>
 
 <div align="center">
-| <a href="https://github-profile-trophy.vercel.app/?username=Aruln3"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2" alt="Arul's GitHub Trophies" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&no-frame=true&theme=omni&langs_count=6" alt="Arul's GitHub Streak Stats" /></a> |
+
+| <a href="https://github-profile-trophy.vercel.app/?username=Aruln3"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars,PullRequest&row=2&column=2" alt="Arul's GitHub Trophies" /></a> | <a href="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aruln3&theme=omni&langs_count=6" alt="Arul's GitHub Streak Stats" /></a> |
 | ------------- | ------------- |
+
 </div>
 
 <div align="center">
-| <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&no-frame=true&theme=omni&layout=compact&hide_progress=true" alt="Arul's Top Languages" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&no-frame=true&theme=omni&layout=compact" alt="Arul's GitHub Stats" /></a> |
+
+| <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aruln3&show_icons=true&theme=omni&layout=compact&hide_progress=true" alt="Arul's Top Languages" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=Aruln3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&layout=compact" alt="Arul's GitHub Stats" /></a> |
 | ------------- | ------------- |
+
 </div>
+
 
  <details align="left">
    <summary align="left"><h2 style="display: inline;">Who am I &ensp;<img src="https://c.tenor.com/ubvX6P6dkhUAAAAi/question-mark.gif" width="20" height="25"></h2></summary>
