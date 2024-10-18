@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Aruln3&show_icons=true&theme=omni&langs_count=4&rank_icon=github&card_width=20px"></p>
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars"/></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Aruln3&theme=onedark&no-bg=true&no-frame=true&title=Repositories,Commits,Stars&card_width=20px"/></p>
 
 
  <details align="left">
